@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amin/Desktop/house_price_estimatior_cicd_mlflow/mlruns/130348878069807906/406e5341f9994da0b72496fbcbcb22e3/artifacts
+end_time: 1733380624862
+entry_point_name: ''
+experiment_id: '130348878069807906'
+lifecycle_stage: active
+run_id: 406e5341f9994da0b72496fbcbcb22e3
+run_name: smiling-turtle-634
+run_uuid: 406e5341f9994da0b72496fbcbcb22e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733380617139
+status: 3
+tags: []
+user_id: amin

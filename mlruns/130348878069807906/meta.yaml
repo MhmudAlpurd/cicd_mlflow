@@ -1,0 +1,6 @@
+artifact_location: file:///home/amin/Desktop/house_price_estimatior_cicd_mlflow/mlruns/130348878069807906
+creation_time: 1733380383098
+experiment_id: '130348878069807906'
+last_update_time: 1733380383098
+lifecycle_stage: active
+name: California_House_Price_Estimator

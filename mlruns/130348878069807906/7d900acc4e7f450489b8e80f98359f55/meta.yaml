@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amin/Desktop/house_price_estimatior_cicd_mlflow/mlruns/130348878069807906/7d900acc4e7f450489b8e80f98359f55/artifacts
+end_time: 1733380390944
+entry_point_name: ''
+experiment_id: '130348878069807906'
+lifecycle_stage: active
+run_id: 7d900acc4e7f450489b8e80f98359f55
+run_name: honorable-koi-243
+run_uuid: 7d900acc4e7f450489b8e80f98359f55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733380383307
+status: 3
+tags: []
+user_id: amin
